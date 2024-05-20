@@ -56,7 +56,7 @@ Vamos isolar a voz do artista para ficarmos somente com a voz a capela, dessa fo
 ![image](https://github.com/Clebio2030/BootCamp_Nexa_Dio_IA/assets/134241152/0a81bc19-50a6-4524-825c-8222b5d8b658)
 
 
-### [Link do Moises.ai](studio.moises.ai)
+### [Link do Moises.ai](https://studio.moises.ai)
 
 
 
