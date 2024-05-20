@@ -15,6 +15,9 @@ Nesse projeto, temos uma receita de como produzir um **lyric vídeo** com a ajud
 
 1. Baixe a música em FLAC.
 
+![image](https://github.com/Clebio2030/BootCamp_Nexa_Dio_IA/assets/134241152/8bce702b-8dcf-434e-b79e-9ee9111a68db)
+
+
 > [!TIP]
 > Algumas músicas possuem muito auto tune e masterizações diversas e faz parte da música, mas para extrair o melhor resultado, pegue vídeos ou músicas ao vivo (com qualidade) que o resultado será melhor.
 
