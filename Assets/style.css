@@ -1,0 +1,23 @@
+
+.title {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #2a93d5;
+}
+
+.billionaire_bruno_mars {
+    display: flex;
+    align-items: center; 
+}
+
+
+.ilussion_dua_lipa {
+    display: flex;
+    align-items: center;
+}
+
+iframe {
+    border-radius: 10px;
+}
+
