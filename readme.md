@@ -50,7 +50,7 @@ Vamos isolar a voz do artista para ficarmos somente com a voz a capela, dessa fo
 2. Diminua todos os instrumentos e deixe apenas o vocal ativo, igual a imagem abaixo:
 3. Só exportar agora o arquivo
 
-​	![img1](https://github.com/Clebio2030/BootCamp_Nexa_Dio_IA/assets/134241152/e0607664-f4c8-4b65-a1c8-280d3d107764)
+​	![img1](https://prnt.sc/2C765aTN74PT)
 
 ### [Link do Moises.ai](studio.moises.ai)
 
@@ -64,9 +64,8 @@ Vamos extrair o arquivo como legenda no formato .srt, usaremos essas legendas pa
 2. Traduza para o português, selecionando a opção de tradução igual a imagem abaixo:
 3. Exporte o arquivo no formato em .srt
 
-
-![img3](https://github.com/Clebio2030/BootCamp_Nexa_Dio_IA/assets/134241152/5c834b1b-d7fc-4601-b9fc-1edb6cb0831a)
-​	
+![img3](https://prnt.sc/ptNqF5KUbA75)
+	
 
 > [!NOTE]
 >
@@ -91,7 +90,7 @@ Vamos criar um fundo animado para incluir no nosso vídeo e ficar algo único.
 A ilussion dance drifts on a lake with a ripple design, displaying a surreal, ethereal look using CGI graphics.
 ```
 
-![Img2](https://github.com/Clebio2030/BootCamp_Nexa_Dio_IA/assets/134241152/c44d8577-a957-404e-8c65-092b81e9bec9)
+![Img2](https://prnt.sc/ge3ndjBh04de)
 
 
 
@@ -119,8 +118,7 @@ Agora para dar vida a tudo que fizemos, precisamos de um editor, estou usando o 
 4. Por fim, dê os retoques finais. Sua timeline (linha do tempo) ficará parecido com a imagem abaixo.
 
 
-![Img4](https://github.com/Clebio2030/BootCamp_Nexa_Dio_IA/assets/134241152/26ade65f-6b84-427f-8158-8e1f08f965a5)
+![Img4](https://prnt.sc/_XJeJpVEr3hr)
 
 
-   
 
