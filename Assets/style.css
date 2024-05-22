@@ -6,18 +6,42 @@
     color: #2a93d5;
 }
 
-.billionaire_bruno_mars {
+.song-container {
     display: flex;
     align-items: center; 
+    margin: 0 auto;
 }
 
+.song-container:nth-of-type(odd){
+    flex-direction: row-reverse;
+}
 
-.ilussion_dua_lipa {
-    display: flex;
-    align-items: center;
+.song-video {
+    width: 50%;
+}
+
+.song-video iframe {
+    width: 100%;
+    height: 400px;
+}
+
+.song-translation {
+    width: 50%;
 }
 
 iframe {
     border-radius: 10px;
 }
 
+/* ------------------------------------------------- */
+
+
+@media screen and (max-width: 1024px) {
+    .title {
+        font-size: 15px;
+    }
+    
+
+
+
+}
