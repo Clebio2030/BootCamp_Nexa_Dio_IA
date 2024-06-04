@@ -1,4 +1,3 @@
-
 .title {
     font-family: "Open Sans", sans-serif;
     font-size: 20px;
@@ -10,6 +9,7 @@
     display: flex;
     align-items: center; 
     margin: 0 auto;
+    background-color: transparent; /* Makes the background transparent */
 }
 
 .song-container:nth-of-type(odd){
@@ -32,6 +32,22 @@
 iframe {
     border-radius: 10px;
 }
+
+.title {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    animation: neonPop 2s linear infinite; /* Animação neon */
+  }
+  
+  @keyframes neonPop {
+    0%, 100% {
+      text-shadow: 0 0 1px rgb(175, 255, 125), 0 0 2px rgb(175, 255, 125), 0 0 3px rgb(175, 255, 125);
+    }
+    50% {
+      text-shadow: 0 0 1px #00ffea, 0 0 2px #00ffea, 0 0 3px #00ffea;
+    }
+  }
 
 /* ------------------------------------------------- */
 
