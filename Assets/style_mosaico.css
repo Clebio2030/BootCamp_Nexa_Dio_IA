@@ -1,0 +1,63 @@
+/* Estilização geral */
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}   
+
+.title {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #2a93d5;
+}
+
+
+/* Mosaico de músicas */
+.mosaico-musicas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Cada bloco de música */
+.musica {
+    width: calc(30% - 100px); /* 2 colunas por linha com espaçamento */
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden; /* Esconde a imagem que ultrapassa as bordas arredondadas */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.musica:hover {
+    transform: translateY(-5px); /* Efeito de elevação ao passar o mouse */
+}
+
+/* Link da música */
+.musica a {
+    display: block;
+    color: #333;
+    text-decoration: none;
+}
+
+/* Imagem da capa */
+.musica img {
+    width: 100%;
+}
+
+/* Título da música */
+.musica h3 {
+    padding: 10px;
+    font-size: 1.2em;
+    margin: 0;
+    background-color: white;
+}
+
+/* Responsividade - 1 coluna em telas menores */
+@media screen and (max-width: 600px) {
+    .musica {
+        width: 100%;
+    }
+}

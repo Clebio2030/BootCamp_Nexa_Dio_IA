@@ -5,6 +5,10 @@
     color: #2a93d5;
 }
 
+h5 {
+    text-align: center;
+}
+
 .song-container {
     display: flex;
     align-items: center; 
