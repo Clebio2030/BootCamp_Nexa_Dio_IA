@@ -3,7 +3,7 @@ body {
     font-family: "Open Sans", sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #dbfff7;
 }   
 
 .title {
@@ -11,6 +11,7 @@ body {
     font-size: 20px;
     text-align: center;
     color: #2a93d5;
+    animation: loop 5s infinite linear, mover 2s infinite ease-in-out;
 }
 
 
@@ -54,6 +55,30 @@ body {
     margin: 0;
     background-color: white;
 }
+
+@keyframes loop {
+    0% {
+      color: #2a93d5; /* Azul marinho */
+    }
+    50% {
+      color: #cad52a/* Azul cerúleo */
+    }
+    100% {
+        color: #d52a8e; /* Azul claro */
+    }
+  }
+
+@keyframes mover {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-2px); /* Movendo para cima */
+    }
+    100% {
+      transform: translateY(0); /* Retornando à posição inicial */
+    }
+  }
 
 /* Responsividade - 1 coluna em telas menores */
 @media screen and (max-width: 600px) {
