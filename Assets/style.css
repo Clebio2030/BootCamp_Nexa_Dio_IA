@@ -60,8 +60,13 @@ iframe {
     .title {
         font-size: 15px;
     }
-    
-
-
-
+    .song-container {
+      flex-direction: column-reverse; /* Already set for mobile */
+    }
+    .song-translation {
+        width: 95%;
+    }
+    .song-video {
+        width: 95%;
+    }
 }
